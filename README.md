@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1742D5&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1742D5&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Meu+nome+é+Ythallo+Gabryel;Tenho+16+Anos;Sou+de+Araguaina;faço+o+2°+Ano+do+Ensino+sou+um+gostoso+médio;Bem+vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1742D5&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Meu+nome+é+Ythallo+Gabryel;Tenho+16+Anos;Sou+de+Araguaina;+não+tenho+defeitos;+soujogador;+sou+um+gostoso+;Bem+vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gabryel-Gomes&bg_color=000000&color=2d25a7&line=0400f5&point=5340dd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
